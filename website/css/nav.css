@@ -1,6 +1,6 @@
 
 .topbar-responsive {
-  background: #63187c;
+  background: #0a0a0a ;
   padding: 1rem 1.5rem;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .topbar-responsive .menu {
-  background: #2c3840;
+  background: #0a0a0a ;
 }
 
 .topbar-responsive .menu li:last-of-type {
@@ -23,7 +23,7 @@
 }
 
 .topbar-responsive .menu a:hover {
-  color: #c6d1d8;
+  color: #c60101;
 }
 
 @media screen and (max-width: 39.9375em) {
